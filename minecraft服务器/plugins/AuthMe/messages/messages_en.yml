@@ -1,0 +1,156 @@
+# List of global tags:
+# %nl% - Goes to new line.
+# %username% - Replaces the username of the player receiving the message.
+# %displayname% - Replaces the nickname (and colors) of the player receiving the message.
+
+# Registration
+registration:
+  register_request: '&3注册请使用指令,我们会保护好你的隐私: /register 密码 二次密码 进行注册'
+  command_usage: '&c注册 /register 密码 二次密码'
+  reg_only: '&4Only registered users can join the server! Please visit http://example.com to register yourself!'
+  kicked_admin_registered: 'An admin just registered you; please log in again.'
+  success: '&2成功注册！'
+  disabled: '&cIn-game registration is disabled!'
+  name_taken: '&cYou already have registered this username!'
+
+# Password errors on registration
+password:
+  match_error: '&c两次密码不一样，请重新检查'
+  name_in_password: '&c你的密码不能和你的名字一样，请更换....'
+  unsafe_password: '&c你的密码不能这样，请重新输入！'
+  forbidden_characters: '&4Your password contains illegal characters. Allowed chars: %valid_chars'
+  wrong_length: '&c你的密码太长了或太短了，请更换一个'
+
+# Login
+login:
+  command_usage: '&c使用方法: /login 输入密码'
+  wrong_password: '&c密码错误！请重新登陆！如果账号名重复，请寻找管理员帮助！（支持正版玩家）'
+  success: '&2成功登陆!'
+  login_request: '&c登陆请使用指令: /login 输入密码'
+  timeout_error: '&4超时，请重新登陆！'
+
+# Errors
+error:
+  unregistered_user: '&c这个用户名无法重新注册！'
+  denied_command: '&c在没有输入密码，你无法使用其他指令！'
+  denied_chat: '&c在没有输入密码，你无法发送消息！'
+  not_logged_in: '&c你还没有登陆！'
+  tempban_max_logins: '&cYou have been temporarily banned for failing to log in too many times.'
+  max_registration: '&cYou have exceeded the maximum number of registrations (%reg_count/%max_acc %reg_names) for your connection!'
+  no_permission: '&4You don''t have the permission to perform this action!'
+  unexpected_error: '&4An unexpected error occurred, please contact an administrator!'
+  kick_for_vip: '&3A VIP player has joined the server when it was full!'
+  logged_in: '&cYou''re already logged in!'
+  kick_unresolved_hostname: '&cAn error occurred: unresolved player hostname!'
+
+# AntiBot
+antibot:
+  kick_antibot: 'AntiBot protection mode is enabled! You have to wait some minutes before joining the server.'
+  auto_enabled: '&4[AntiBotService] AntiBot enabled due to the huge number of connections!'
+  auto_disabled: '&2[AntiBotService] AntiBot disabled after %m minutes!'
+
+unregister:
+  success: '&c成功重新注册！'
+  command_usage: '&c使用方法:重新注册 /unregister 密码'
+
+# Other messages
+misc:
+  accounts_owned_self: '这里有 %count 注册玩家:'
+  accounts_owned_other: 'The player %name has %count accounts:'
+  account_not_activated: '&cYour account isn''t activated yet, please check your emails!'
+  password_changed: '&2密码更改成功!'
+  logout: '&2登陆成功！'
+  reload: '&2Configuration and database have been reloaded correctly!'
+  usage_change_password: '&c使用方法:/changepassword 旧密码 新密码 来更改密码'  
+
+# Session messages
+session:
+  invalid_session: '&cYour IP has been changed and your session data has expired!'
+  valid_session: '&2Logged-in due to Session Reconnection.'
+
+# Error messages when joining
+on_join_validation:
+  name_length: '&4你的名字太长了或太短了！'
+  characters_in_name: '&4Your username contains illegal characters. Allowed chars: %valid_chars'
+  country_banned: '&4你被这个服务器封禁了！'
+  not_owner_error: 'You are not the owner of this account. Please choose another name!'
+  kick_full_server: '&4服务器满了，请稍后再试！'
+  same_nick_online: '&4SB，别搞了，有人在里面'
+  invalid_name_case: 'You should join using username %valid, not %invalid.'
+  same_ip_online: 'A player with the same IP is already in game!'
+  quick_command: 'You used a command too fast! Please, join the server again and wait more before using any command.'
+
+# Email
+email:
+  usage_email_add: '&c注册邮箱 /email add 邮箱 二次邮箱'
+  usage_email_change: '&c更改邮箱/email change 旧邮箱 新邮箱'
+  new_email_invalid: '&cInvalid new email, try again!'
+  old_email_invalid: '&cInvalid old email, try again!'
+  invalid: '&cInvalid email address, try again!'
+  added: '&2你的邮箱已经成功注册'
+  request_confirmation: '&cPlease confirm your email address!'
+  changed: '&2Email address changed correctly!'
+  email_show: '&2Your current email address is: &f%email'
+  incomplete_settings: 'Error: not all required settings are set for sending emails. Please contact an admin.'
+  already_used: '&4The email address is already being used'
+  send_failure: 'The email could not be sent. Please contact an administrator.'
+  no_email_for_account: '&2You currently don''t have email address associated with this account.'
+  add_email_request: '&3Please add your email to your account with the command: /email add <yourEmail> <confirmEmail>'
+  change_password_expired: 'You cannot change your password using this command anymore.'
+  email_cooldown_error: '&cAn email was already sent recently. You must wait %time before you can send a new one.'
+  add_not_allowed: '&cAdding email was not allowed.'
+  change_not_allowed: '&cChanging email was not allowed.'
+
+# Password recovery by email
+recovery:
+  forgot_password_hint: '&3Forgot your password? Please use the command: /email recovery <yourEmail>'
+  command_usage: '&c使用方法: /email recovery <Email>'
+  email_sent: '&2Recovery email sent successfully! Please check your email inbox!'
+  code:
+    code_sent: 'A recovery code to reset your password has been sent to your email.'
+    incorrect: 'The recovery code is not correct! You have %count tries remaining.'
+    tries_exceeded: 'You have exceeded the maximum number attempts to enter the recovery code. Use "/email recovery [email]" to generate a new one.'
+    correct: 'Recovery code entered correctly!'
+    change_password: 'Please use the command /email setpassword <new password> to change your password immediately.'
+
+# Captcha
+captcha:
+  usage_captcha: '&3To log in you have to solve a captcha code, please use the command: /captcha %captcha_code'
+  wrong_captcha: '&cWrong captcha, please type "/captcha %captcha_code" into the chat!'
+  valid_captcha: '&2Captcha code solved correctly!'
+  captcha_for_registration: 'To register you have to solve a captcha first, please use the command: /captcha %captcha_code'
+  register_captcha_valid: '&2Valid captcha! You may now register with /register'
+
+# Verification code
+verification:
+  code_required: '&3This command is sensitive and requires an email verification! Check your inbox and follow the email''s instructions.'
+  command_usage: '&cUsage: /verification <code>'
+  incorrect_code: '&cIncorrect code, please type "/verification <code>" into the chat, using the code you received by email'
+  success: '&2Your identity has been verified! You can now execute all commands within the current session!'
+  already_verified: '&2You can already execute every sensitive command within the current session!'
+  code_expired: '&3Your code has expired! Execute another sensitive command to get a new code!'
+  email_needed: '&3To verify your identity you need to link an email address with your account!!'
+
+# Two-factor authentication
+two_factor:
+  code_created: '&2Your secret code is %code. You can scan it from here %url'
+  confirmation_required: 'Please confirm your code with /2fa confirm <code>'
+  code_required: 'Please submit your two-factor authentication code with /2fa code <code>'
+  already_enabled: 'Two-factor authentication is already enabled for your account!'
+  enable_error_no_code: 'No 2fa key has been generated for you or it has expired. Please run /2fa add'
+  enable_success: 'Successfully enabled two-factor authentication for your account'
+  enable_error_wrong_code: 'Wrong code or code has expired. Please run /2fa add'
+  not_enabled_error: 'Two-factor authentication is not enabled for your account. Run /2fa add'
+  removed_success: 'Successfully removed two-factor auth from your account'
+  invalid_code: 'Invalid code!'
+
+# Time units
+time:
+  second: 'second'
+  seconds: 'seconds'
+  minute: 'minute'
+  minutes: 'minutes'
+  hour: 'hour'
+  hours: 'hours'
+  day: 'day'
+  days: 'days'

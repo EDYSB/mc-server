@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1782126007584
+  login: 1782125983475
+money: '0'
+last-account-name: yizi
+logoutlocation:
+  world: f0b96bb2-2406-4670-aa64-df7cdee130b6
+  world-name: waiguapve
+  x: 420.0182829940147
+  y: 85.0
+  z: 51.14791606864085
+  yaw: 41.5853271484375
+  pitch: 45.60102462768555
+lastlocation:
+  world: c17bbbdc-b5b6-4f43-927c-d9f1836d4cd7
+  world-name: world
+  x: -9.215847748103144
+  y: 67.0
+  z: 3.5864487804132903
+  yaw: -87.14352416992188
+  pitch: 17.550195693969727

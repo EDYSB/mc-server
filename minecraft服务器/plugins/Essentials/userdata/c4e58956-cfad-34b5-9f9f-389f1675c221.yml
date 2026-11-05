@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1741961055955
+  login: 1741961020343
+money: '0'
+last-account-name: WhiteClient
+logoutlocation:
+  world: 7bf3b94d-3914-461c-887e-4edbdc1430a7
+  world-name: fwqsc
+  x: -208.76726148140253
+  y: 70.3333827299487
+  z: 239.30259631779595
+  yaw: -63.31667709350586
+  pitch: 81.44995880126953
+lastlocation:
+  world: 7bf3b94d-3914-461c-887e-4edbdc1430a7
+  world-name: fwqsc
+  x: -123.24857315598025
+  y: 65.0
+  z: 188.78395022964654
+  yaw: 160.0465850830078
+  pitch: 25.94989585876465

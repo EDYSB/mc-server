@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1785056061530
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1785056971438
+  login: 1785054413272
+money: '0'
+last-account-name: Milk_Dragoncmgg1
+logoutlocation:
+  world: 7bf3b94d-3914-461c-887e-4edbdc1430a7
+  world-name: fwqsc
+  x: -268.69064617362443
+  y: 76.0
+  z: 134.61682406407502
+  yaw: -87.30084228515625
+  pitch: 34.35005187988281
+lastlocation:
+  world: 7bf3b94d-3914-461c-887e-4edbdc1430a7
+  world-name: fwqsc
+  x: -194.54134209649212
+  y: 127.14878763057673
+  z: 172.69999998807907
+  yaw: -34.49993896484375
+  pitch: 50.25006866455078

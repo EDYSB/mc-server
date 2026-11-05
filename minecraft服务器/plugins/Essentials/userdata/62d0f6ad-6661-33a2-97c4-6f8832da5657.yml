@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743773089861
+  login: 1743772383856
+money: '0'
+last-account-name: GANGMEMBERLB
+logoutlocation:
+  world: 7bf3b94d-3914-461c-887e-4edbdc1430a7
+  world-name: fwqsc
+  x: -195.79657942044653
+  y: 64.0
+  z: 187.78999354656384
+  yaw: -142.22647094726562
+  pitch: 23.516582489013672

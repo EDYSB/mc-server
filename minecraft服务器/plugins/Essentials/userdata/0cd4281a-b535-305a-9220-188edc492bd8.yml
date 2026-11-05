@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.153.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736660190292
+  login: 1736660071040
+money: '0'
+last-account-name: 98Q2
+logoutlocation:
+  world: 7bf3b94d-3914-461c-887e-4edbdc1430a7
+  world-name: fwqsc
+  x: -155.98059064027552
+  y: 65.0
+  z: 211.04805418723345
+  yaw: -116.09988403320312
+  pitch: 5.249764442443848

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1785055715993
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1785056971482
+  login: 1785056689486
+money: '0'
+last-account-name: EDY_POWERQ
+logoutlocation:
+  world: 7bf3b94d-3914-461c-887e-4edbdc1430a7
+  world-name: fwqsc
+  x: -221.5769827617898
+  y: 74.0
+  z: 124.53043153456161
+  yaw: 107.85443115234375
+  pitch: 10.200118064880371
+lastlocation:
+  world: 7bf3b94d-3914-461c-887e-4edbdc1430a7
+  world-name: fwqsc
+  x: -746.403136901419
+  y: 64.0
+  z: -59.70895582740148
+  yaw: 148.34930419921875
+  pitch: 12.899984359741211
