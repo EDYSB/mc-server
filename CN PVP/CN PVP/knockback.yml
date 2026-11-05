@@ -1,0 +1,13 @@
+knockback:
+  profiles:
+    vanilla:
+      vertical: 0.25635
+      horizontal: 0.9055
+      sprint-multiplier: 1.0
+      range-factor: 0.025
+      max-range-reduction: 1.2
+      start-range-reduction: 3.0
+      min-range: 0.12
+      vertical-limit: true
+      vertical-limit-value: 4.0
+  current: mmc

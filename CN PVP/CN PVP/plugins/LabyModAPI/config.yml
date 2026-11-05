@@ -1,0 +1,13 @@
+permissions:
+  IMPROVED_LAVA: false
+  CROSSHAIR_SYNC: false
+  REFILL_FIX: false
+  GUI_ALL: true
+  GUI_POTION_EFFECTS: true
+  GUI_ARMOR_HUD: true
+  GUI_ITEM_HUD: true
+  BLOCKBUILD: true
+  TAGS: true
+  CHAT: true
+  ANIMATIONS: true
+  SATURATION_BAR: true

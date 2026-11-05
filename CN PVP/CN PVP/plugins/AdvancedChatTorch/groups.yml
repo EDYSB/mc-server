@@ -1,0 +1,37 @@
+default:
+  priority: 1
+  perm: act.group.default
+  format: '{prefix} &f%player_name% {suffix}&7: %message%'
+  useChatColor: true
+  chatColor: '7'
+  on_click:
+    suggest_command: true
+    suggested_command: /m %player_name%
+    run_command: false
+    runned_command: /info %player_name%
+  on_hover:
+    show_text: true
+    text_shown: |-
+      &a%player_name%
+      Info goes here
+      For each line.
+      &a+ Colors!
+donor:
+  priority: 2
+  perm: act.group.donor
+  format: '{prefix} {colored_name} {suffix}&7: %message%'
+  useChatColor: true
+  chatColor: b
+  on_click:
+    suggest_command: true
+    suggested_command: /m %player_name%
+    run_command: false
+    runned_command: /info %player_name%
+  on_hover:
+    show_text: true
+    text_shown: |-
+      &7[&bDonor&7]
+      &a%player_name%
+      Info goes here
+      For each line.
+      &a+ Colors!
