@@ -1,5 +1,26 @@
-# 内网映射（frp 内网穿透）目录不纳入版本库
+# ===== 不纳入版本库 =====
+
+# 内网映射（frp 内网穿透）目录
 /内网映射/
+
+# 服务器宣传片（137MB 视频，非服务端内容）
+/宣传片/
+
+# 备份目录：只保留在线目录中不存在的 skywars 服；其余为在线服的重复副本
+/服务器备份/*
+!/服务器备份/skywars for EDY_POWERQ/
+
+# 第三方 Java 运行时（可重新下载，约 700MB）
+**/java8-for-retards/
+
+# Spigot / Fabric 自动下载的依赖与中间产物
+**/bundler/
+**/libraries/
+**/.fabric/
+
+# 运行日志与崩溃报告
+**/logs/
+**/crash-reports/
 
 # 本地 git 数据
 .git/

@@ -1,4 +1,1 @@
-# 超过 GitHub 100MB 单文件限制的文件，走 Git LFS
-服务器备份/CN\ PVP.zip filter=lfs diff=lfs merge=lfs -text
-服务器备份/minecraft服务器.zip filter=lfs diff=lfs merge=lfs -text
-宣传片/video_240731_203834.mp4 filter=lfs diff=lfs merge=lfs -text
+# 本仓库不含超过 100MB 的单文件；如后续需要可在此改为 Git LFS 规则
