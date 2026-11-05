@@ -1,0 +1,55 @@
+# SuperSystem by CrispyBow
+
+# ANTI SPAM SYSTEM
+# PLACEHOLDERS: %pr% %player%
+AntiSpam:
+  enabled: true
+  kick:
+    enabled: true
+    msg: '%pr%&cPlease slow down your chat!'
+  perm: supersystem.antispam.bypass
+  spam-msg: '%pr%&cPlease slow down your chat before you getting kick!'
+  cooldown: 1
+  
+JoinQuitMessages:
+  clearchat-on-join: false
+  join-motd:
+    enabled: 
+    # %player%, %player_displayname%, %prefix%
+    motd:
+    - ''
+  join-msg:
+    # If join messages disabled in SuperSystem you can enable/disable default join messages.
+    disable-default-join-msg: false
+    enabled: false
+    # %player%, %player_displayname%, %prefix%
+    msg: '&9%player_displayname% &ahas joined&8.'
+  quit-msg:
+    # If quit messages disabled in SuperSystem you can enable/disable default quit messages.
+    disable-default-quit-msg: false
+    enabled: false
+    # %player%, %player_displayname%, %prefix%
+    msg: '&9%player_displayname% &chas left&8.'
+  
+Titles:
+  fadeIn: 5
+  stay: 20
+  fadeOut: 5
+  
+ChatColor:
+  colors:
+    dark_red: false
+    red: true
+    gold: true
+    yellow: true
+    dark_green: false
+    green: true
+    aqua: true
+    cyan: true
+    dark_blue: false
+    blue: false
+    purple: false
+    pink: true
+    gray: false
+    dark_gray: false
+    black: false

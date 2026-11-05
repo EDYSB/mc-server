@@ -1,0 +1,5 @@
+# CrispyBow's Chat Format Plugin
+Prefix: '&8[&eCrispyChatFormat&8] &r'
+Chat-Format: '&a%displayname%&8: &r%message%'
+Config-Reload: '&aConfig has been reloaded.'
+No-Permission: '&cYou dont have permission!'

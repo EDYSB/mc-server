@@ -1,0 +1,110 @@
+# Group inheritance
+#
+# Any inherited groups prefixed with a g: are global groups
+# and are inherited from the GlobalGroups.yml.
+#
+# Groups without the g: prefix are groups local to this world
+# and are defined in the this groups.yml file.
+#
+# Local group inheritances define your promotion tree when using 'manpromote/mandemote'
+
+groups:
+  Default:
+    default: true
+    permissions:
+    - -bukkit.command.kill
+    inheritance:
+    - g:groupmanager_default
+    - g:bukkit_default
+    - g:essentials_default
+    - g:towny_default
+    info:
+      prefix: '&9'
+      build: false
+      suffix: ''
+  Builder:
+    default: false
+    permissions:
+    - crispydisguise.disguise
+    - crispydisguise.undisguise
+    - supersystem.chatcolor
+    - supersystem.gamemode
+    - supersystem.fly
+    inheritance:
+    - default
+    - g:essentials_builder
+    - g:towny_builder
+    info:
+      prefix: '&2'
+      build: true
+      suffix: ''
+  VIP:
+    default: false
+    permissions:
+    - crispydisguise.disguise
+    - crispydisguise.undisguise
+    - supersystem.chatcolor
+    - supersystem.fly
+    inheritance:
+    - builder
+    - g:groupmanager_default
+    - g:bukkit_default
+    - g:essentials_default
+    - g:towny_default
+    info:
+      prefix: '&6&lVIP &6'
+      build: true
+      suffix: ''
+  Moderator:
+    default: false
+    permissions:
+    - crispydisguise.disguise
+    - crispydisguise.undisguise
+    - supersystem.chatcolor
+    - supersystem.fly
+    - supersystem.vanish
+    - supersystem.teleport
+    inheritance:
+    - builder
+    - g:groupmanager_moderator
+    - g:bukkit_moderator
+    - g:essentials_moderator
+    - g:towny_moderator
+    - g:vanish_moderator
+    info:
+      prefix: '&c&lMod &c'
+      build: true
+      suffix: ''
+  Admin:
+    default: false
+    permissions:
+    - crispydisguise.disguise
+    - crispydisguise.undisguise
+    - supersystem.chatcolor
+    - supersystem.fly
+    - supersystem.vanish
+    - supersystem.teleport
+    - supersystem.gamemode
+    inheritance:
+    - moderator
+    - g:groupmanager_admin
+    - g:bukkit_admin
+    - g:essentials_admin
+    - g:towny_admin
+    - g:vanish_admin
+    info:
+      prefix: '&c&lAdmin &4'
+      build: true
+      suffix: ''
+  Owner:
+    default: false
+    permissions:
+    - '*'
+    - -vanish.effects.*
+    - +vanish.effects.toggle.all
+    inheritance:
+    - admin
+    info:
+      prefix: '&4&lOwner &7'
+      build: true
+      suffix: ''

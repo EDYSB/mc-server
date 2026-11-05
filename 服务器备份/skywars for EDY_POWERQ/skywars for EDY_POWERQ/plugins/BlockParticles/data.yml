@@ -1,0 +1,19 @@
+Locations:
+  well:
+    World: world
+    X: 232
+    Y: 51
+    Z: 1329
+    Particle: BigSoulWell
+  solo:
+    World: world
+    X: 237
+    Y: 51
+    Z: 1317
+    Particle: DoubleWitch
+  doubles:
+    World: world
+    X: 248
+    Y: 51
+    Z: 1317
+    Particle: DoubleWitch

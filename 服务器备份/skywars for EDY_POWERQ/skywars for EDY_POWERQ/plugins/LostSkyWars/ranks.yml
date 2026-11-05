@@ -1,0 +1,37 @@
+ranks:
+  Owner:
+    name: '&cOwner'
+    prefix: '&c[Owner&c] '
+    permission: lostskywars.rank.mvp+
+    onJoin: '{display} &6joined the lobby!'
+    percentage-box: 15
+  MVP+:
+    name: '&bMVP&c+'
+    prefix: '&b[MVP&c+&b] '
+    permission: lostskywars.rank.mvp+
+    onJoin: '{display} &6joined the lobby!'
+    percentage-box: 15
+  MVP:
+    name: '&bMVP'
+    prefix: '&b[MVP] '
+    permission: lostskywars.rank.mvp
+    onJoin: '{display} &6joined the lobby!'
+    percentage-box: 15
+  VIP+:
+    name: '&aVIP&6+'
+    prefix: '&a[VIP&6+&a] '
+    permission: lostskywars.rank.vip+
+    onJoin: '{display} &6joined the lobby!'
+    percentage-box: 15
+  VIP:
+    name: '&aVIP'
+    prefix: '&a[VIP] '
+    permission: lostskywars.rank.vip
+    onJoin: '{display} &6joined the lobby!'
+    percentage-box: 15
+  Default:
+    name: '&7Default'
+    prefix: '&7'
+    permission: none
+    onJoin: ''
+    percentage-box: 7

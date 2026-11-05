@@ -1,0 +1,60 @@
+name: RailRoad
+mode: solo
+cube: RailRoad, 155, -102, 162, 0, 197, -155
+min-players: 2
+spawns:
+- RailRoad; 1.5; 98.0; -38.5; 0.0; 0.0
+- RailRoad; -16.5; 98.0; -36.5; 0.0; 0.0
+- RailRoad; 17.5; 98.0; -35.5; 0.0; 0.0
+- RailRoad; -35.5; 98.0; -16.5; 0.0; 0.0
+- RailRoad; 36.5; 98.0; -16.5; 0.0; 0.0
+- RailRoad; -38.5; 98.0; 0.5; 0.0; 0.0
+- RailRoad; 39.5; 98.0; 0.5; 0.0; 0.0
+- RailRoad; -36.5; 98.0; 17.5; 0.0; 0.0
+- RailRoad; 36.5; 98.0; 17.5; 0.0; 0.0
+- RailRoad; -16.5; 98.0; 36.5; 0.0; 0.0
+- RailRoad; 17.5; 98.0; 36.5; 0.0; 0.0
+- RailRoad; 0.5; 98.0; 40.5; 0.0; 0.0
+chests:
+- RailRoad; -1.0; 91.0; -45.0; 0.0; 0.0; solo
+- RailRoad; 1.0; 85.0; -43.0; 0.0; 0.0; solo
+- RailRoad; -18.0; 91.0; -42.0; 0.0; 0.0; solo
+- RailRoad; 16.0; 91.0; -42.0; 0.0; 0.0; solo
+- RailRoad; -16.0; 85.0; -40.0; 0.0; 0.0; solo
+- RailRoad; 3.0; 85.0; -40.0; 0.0; 0.0; solo
+- RailRoad; 18.0; 85.0; -40.0; 0.0; 0.0; solo
+- RailRoad; -14.0; 85.0; -37.0; 0.0; 0.0; solo
+- RailRoad; 20.0; 85.0; -37.0; 0.0; 0.0; solo
+- RailRoad; -37.0; 85.0; -20.0; 0.0; 0.0; solo
+- RailRoad; -40.0; 85.0; -18.0; 0.0; 0.0; solo
+- RailRoad; 42.0; 91.0; -18.0; 0.0; 0.0; solo
+- RailRoad; 40.0; 85.0; -16.0; 0.0; 0.0; solo
+- RailRoad; -42.0; 91.0; -16.0; 0.0; 0.0; solo
+- RailRoad; 37.0; 85.0; -14.0; 0.0; 0.0; solo
+- RailRoad; -40.0; 85.0; -3.0; 0.0; 0.0; solo
+- RailRoad; -43.0; 85.0; -1.0; 0.0; 0.0; solo
+- RailRoad; 45.0; 91.0; -1.0; 0.0; 0.0; solo
+- RailRoad; 43.0; 85.0; 1.0; 0.0; 0.0; solo
+- RailRoad; -45.0; 91.0; 1.0; 0.0; 0.0; solo
+- RailRoad; 40.0; 85.0; 3.0; 0.0; 0.0; solo
+- RailRoad; -37.0; 85.0; 14.0; 0.0; 0.0; solo
+- RailRoad; -40.0; 85.0; 16.0; 0.0; 0.0; solo
+- RailRoad; 42.0; 91.0; 16.0; 0.0; 0.0; solo
+- RailRoad; 40.0; 85.0; 18.0; 0.0; 0.0; solo
+- RailRoad; -42.0; 91.0; 18.0; 0.0; 0.0; solo
+- RailRoad; 37.0; 85.0; 20.0; 0.0; 0.0; solo
+- RailRoad; -20.0; 85.0; 37.0; 0.0; 0.0; solo
+- RailRoad; 14.0; 85.0; 37.0; 0.0; 0.0; solo
+- RailRoad; -18.0; 85.0; 40.0; 0.0; 0.0; solo
+- RailRoad; -3.0; 85.0; 40.0; 0.0; 0.0; solo
+- RailRoad; 16.0; 85.0; 40.0; 0.0; 0.0; solo
+- RailRoad; -16.0; 91.0; 42.0; 0.0; 0.0; solo
+- RailRoad; 18.0; 91.0; 42.0; 0.0; 0.0; solo
+- RailRoad; -1.0; 85.0; 43.0; 0.0; 0.0; solo
+- RailRoad; 1.0; 91.0; 45.0; 0.0; 0.0; solo
+- RailRoad; 12.0; 86.0; 0.0; 0.0; 0.0; solofeast
+- RailRoad; 0.0; 86.0; -12.0; 0.0; 0.0; solofeast
+- RailRoad; -12.0; 86.0; 0.0; 0.0; 0.0; solofeast
+- RailRoad; 0.0; 86.0; 12.0; 0.0; 0.0; solofeast
+- RailRoad; -6.0; 87.0; 7.0; 0.0; 0.0; solofeast
+- RailRoad; 6.0; 87.0; -7.0; 0.0; 0.0; solofeast

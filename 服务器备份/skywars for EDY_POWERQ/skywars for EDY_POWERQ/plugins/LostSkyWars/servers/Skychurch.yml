@@ -1,0 +1,62 @@
+name: Skychurch
+mode: doubles
+cube: Skychurch, 185, -230, 199, 0, 133, -155
+min-players: 2
+spawns:
+- Skychurch; -24.5; 74.0; -51.5; 0.0; 0.0
+- Skychurch; 25.5; 74.0; -51.5; 0.0; 0.0
+- Skychurch; -40.5; 74.0; -40.5; 0.0; 0.0
+- Skychurch; 41.5; 74.0; -40.5; 0.0; 0.0
+- Skychurch; -51.5; 74.0; -24.5; 0.0; 0.0
+- Skychurch; 52.5; 74.0; -24.5; 0.0; 0.0
+- Skychurch; -51.5; 74.0; 25.5; 0.0; 0.0
+- Skychurch; 52.5; 74.0; 25.5; 0.0; 0.0
+- Skychurch; -40.5; 74.0; 41.5; 0.0; 0.0
+- Skychurch; 41.5; 74.0; 41.5; 0.0; 0.0
+- Skychurch; -24.5; 74.0; 52.5; 0.0; 0.0
+- Skychurch; 25.5; 74.0; 52.5; 0.0; 0.0
+chests:
+- Skychurch; 23.0; 66.0; -56.0; 0.0; 0.0; solo
+- Skychurch; 24.0; 61.0; -52.0; 0.0; 0.0; solo
+- Skychurch; -23.0; 66.0; -52.0; 0.0; 0.0; solo
+- Skychurch; -25.0; 61.0; -51.0; 0.0; 0.0; solo
+- Skychurch; -29.0; 66.0; -50.0; 0.0; 0.0; solo
+- Skychurch; 25.0; 66.0; -50.0; 0.0; 0.0; solo
+- Skychurch; 39.0; 66.0; -45.0; 0.0; 0.0; solo
+- Skychurch; 40.0; 61.0; -41.0; 0.0; 0.0; solo
+- Skychurch; -39.0; 66.0; -41.0; 0.0; 0.0; solo
+- Skychurch; -41.0; 61.0; -40.0; 0.0; 0.0; solo
+- Skychurch; -45.0; 66.0; -39.0; 0.0; 0.0; solo
+- Skychurch; 41.0; 66.0; -39.0; 0.0; 0.0; solo
+- Skychurch; 50.0; 66.0; -29.0; 0.0; 0.0; solo
+- Skychurch; 51.0; 61.0; -25.0; 0.0; 0.0; solo
+- Skychurch; -50.0; 66.0; -25.0; 0.0; 0.0; solo
+- Skychurch; -52.0; 61.0; -24.0; 0.0; 0.0; solo
+- Skychurch; -56.0; 66.0; -23.0; 0.0; 0.0; solo
+- Skychurch; 52.0; 66.0; -23.0; 0.0; 0.0; solo
+- Skychurch; -52.0; 66.0; 23.0; 0.0; 0.0; solo
+- Skychurch; 56.0; 66.0; 23.0; 0.0; 0.0; solo
+- Skychurch; 52.0; 61.0; 24.0; 0.0; 0.0; solo
+- Skychurch; -51.0; 61.0; 25.0; 0.0; 0.0; solo
+- Skychurch; 50.0; 66.0; 25.0; 0.0; 0.0; solo
+- Skychurch; -50.0; 66.0; 29.0; 0.0; 0.0; solo
+- Skychurch; -41.0; 66.0; 39.0; 0.0; 0.0; solo
+- Skychurch; 45.0; 66.0; 39.0; 0.0; 0.0; solo
+- Skychurch; 41.0; 61.0; 40.0; 0.0; 0.0; solo
+- Skychurch; -40.0; 61.0; 41.0; 0.0; 0.0; solo
+- Skychurch; 39.0; 66.0; 41.0; 0.0; 0.0; solo
+- Skychurch; -39.0; 66.0; 45.0; 0.0; 0.0; solo
+- Skychurch; -25.0; 66.0; 50.0; 0.0; 0.0; solo
+- Skychurch; 29.0; 66.0; 50.0; 0.0; 0.0; solo
+- Skychurch; 25.0; 61.0; 51.0; 0.0; 0.0; solo
+- Skychurch; -24.0; 61.0; 52.0; 0.0; 0.0; solo
+- Skychurch; 23.0; 66.0; 52.0; 0.0; 0.0; solo
+- Skychurch; -23.0; 66.0; 56.0; 0.0; 0.0; solo
+- Skychurch; 27.0; 70.0; 27.0; 0.0; 0.0; solofeast
+- Skychurch; 27.0; 70.0; -27.0; 0.0; 0.0; solofeast
+- Skychurch; -27.0; 70.0; -27.0; 0.0; 0.0; solofeast
+- Skychurch; -27.0; 70.0; 27.0; 0.0; 0.0; solofeast
+- Skychurch; 0.0; 89.0; 11.0; 0.0; 0.0; solofeast
+- Skychurch; 0.0; 89.0; -12.0; 0.0; 0.0; solofeast
+- Skychurch; -1.0; 77.0; 2.0; 0.0; 0.0; solofeast
+- Skychurch; 2.0; 76.0; -2.0; 0.0; 0.0; solofeast

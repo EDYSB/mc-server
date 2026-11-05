@@ -1,0 +1,60 @@
+name: Winterhelm
+mode: doubles
+cube: Winterhelm, 276, -216, 165, 0, 155, -162
+min-players: 2
+spawns:
+- Winterhelm; 3.5; 64.0; -63.5; 0.0; 0.0
+- Winterhelm; -22.5; 64.0; -49.5; 0.0; 0.0
+- Winterhelm; 24.5; 64.0; -41.5; 0.0; 0.0
+- Winterhelm; -42.5; 64.0; -23.5; 0.0; 0.0
+- Winterhelm; 49.5; 64.0; -23.5; 0.0; 0.0
+- Winterhelm; -63.5; 64.0; -2.5; 0.0; 0.0
+- Winterhelm; 65.5; 64.0; 3.5; 0.0; 0.0
+- Winterhelm; -49.5; 64.0; 23.5; 0.0; 0.0
+- Winterhelm; 42.5; 64.0; 24.5; 0.0; 0.0
+- Winterhelm; -23.5; 64.0; 43.5; 0.0; 0.0
+- Winterhelm; 23.5; 64.0; 50.5; 0.0; 0.0
+- Winterhelm; -2.5; 64.0; 64.5; 0.0; 0.0
+chests:
+- Winterhelm; 0.0; 56.0; -70.0; 0.0; 0.0; solo
+- Winterhelm; -3.0; 49.0; -66.0; 0.0; 0.0; solo
+- Winterhelm; 6.0; 56.0; -64.0; 0.0; 0.0; solo
+- Winterhelm; -23.0; 56.0; -53.0; 0.0; 0.0; solo
+- Winterhelm; 25.0; 49.0; -48.0; 0.0; 0.0; solo
+- Winterhelm; -29.0; 56.0; -47.0; 0.0; 0.0; solo
+- Winterhelm; 29.0; 56.0; -45.0; 0.0; 0.0; solo
+- Winterhelm; -25.0; 49.0; -44.0; 0.0; 0.0; solo
+- Winterhelm; 23.0; 56.0; -39.0; 0.0; 0.0; solo
+- Winterhelm; -45.0; 56.0; -29.0; 0.0; 0.0; solo
+- Winterhelm; 47.0; 56.0; -29.0; 0.0; 0.0; solo
+- Winterhelm; -48.0; 49.0; -25.0; 0.0; 0.0; solo
+- Winterhelm; 44.0; 49.0; -25.0; 0.0; 0.0; solo
+- Winterhelm; -39.0; 56.0; -23.0; 0.0; 0.0; solo
+- Winterhelm; 53.0; 56.0; -23.0; 0.0; 0.0; solo
+- Winterhelm; -64.0; 56.0; -6.0; 0.0; 0.0; solo
+- Winterhelm; 66.0; 49.0; -3.0; 0.0; 0.0; solo
+- Winterhelm; -70.0; 56.0; 0.0; 0.0; 0.0; solo
+- Winterhelm; 70.0; 56.0; 0.0; 0.0; 0.0; solo
+- Winterhelm; -66.0; 49.0; 3.0; 0.0; 0.0; solo
+- Winterhelm; 64.0; 56.0; 6.0; 0.0; 0.0; solo
+- Winterhelm; -53.0; 56.0; 23.0; 0.0; 0.0; solo
+- Winterhelm; 39.0; 56.0; 23.0; 0.0; 0.0; solo
+- Winterhelm; -44.0; 49.0; 25.0; 0.0; 0.0; solo
+- Winterhelm; 48.0; 49.0; 25.0; 0.0; 0.0; solo
+- Winterhelm; -47.0; 56.0; 29.0; 0.0; 0.0; solo
+- Winterhelm; 45.0; 56.0; 29.0; 0.0; 0.0; solo
+- Winterhelm; -23.0; 56.0; 39.0; 0.0; 0.0; solo
+- Winterhelm; 25.0; 49.0; 44.0; 0.0; 0.0; solo
+- Winterhelm; -29.0; 56.0; 45.0; 0.0; 0.0; solo
+- Winterhelm; 29.0; 56.0; 47.0; 0.0; 0.0; solo
+- Winterhelm; -25.0; 49.0; 48.0; 0.0; 0.0; solo
+- Winterhelm; 23.0; 56.0; 53.0; 0.0; 0.0; solo
+- Winterhelm; -6.0; 56.0; 64.0; 0.0; 0.0; solo
+- Winterhelm; 3.0; 49.0; 66.0; 0.0; 0.0; solo
+- Winterhelm; 0.0; 56.0; 70.0; 0.0; 0.0; solo
+- Winterhelm; 0.0; 50.0; -28.0; 0.0; 0.0; solofeast
+- Winterhelm; -28.0; 50.0; 0.0; 0.0; 0.0; solofeast
+- Winterhelm; 0.0; 50.0; 28.0; 0.0; 0.0; solofeast
+- Winterhelm; 28.0; 50.0; 0.0; 0.0; 0.0; solofeast
+- Winterhelm; 2.0; 43.0; -1.0; 0.0; 0.0; solofeast
+- Winterhelm; -2.0; 43.0; 2.0; 0.0; 0.0; solofeast

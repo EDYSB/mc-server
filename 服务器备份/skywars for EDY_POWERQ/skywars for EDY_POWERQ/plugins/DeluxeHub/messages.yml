@@ -1,0 +1,78 @@
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+# PLUGIN MESSAGES
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+
+Messages:
+  GENERAL:
+    PREFIX: "&aHelper &8❙"
+    NO_PERMISSION: "  &cYou are forbidden to use this."
+    CUSTOM_COMMAND_NO_PERMISSION: "&cYou are not allowed to execute this command."
+    INVALID_PLAYER: "  &c%player% is not online!"
+    CONFIG_RELOAD: "  &aAll configuration files has been reloaded in &7%time%ms"
+    COOLDOWN_ACTIVE: "  &cYou must wait &e%time%s &cbefore doing this again!"
+
+  GAMEMODE:
+    GAMEMODE_CHANGE: "  &7You have changed gamemode to &a%gamemode%"
+    GAMEMODE_CHANGE_OTHER: "  &7You have changed gamemode to &a%gamemode% &7for &e%player%"
+    GAMEMODE_INVALID: "  &e%gamemode% &cis not a valid gamemode"
+
+  VANISH:
+    ENABLE: "  &aYou have now vanished"
+    DISABLE: "  &cYou have now unvanished"
+
+  FLIGHT:
+    ENABLE: "  &aYou have enabled flight"
+    DISABLE: "  &cYou have disabled flight"
+    ENABLE_OTHER: "  &cYou have enabled flight for &7%player%"
+    DISABLE_OTHER: "  &cYou have disabled flight for &7%player%"
+
+  PLAYER_HIDER:
+    HIDDEN: "  &cPlayer visibility disabled"
+    SHOWN: "  &aPlayer visibility enabled"
+
+  LOBBY:
+    SET_LOBBY: "  &aYou have successfully set the lobby spawn point"
+
+  CHAT:
+    CLEARCHAT: "&b&l* &fChat has been cleared by &e%player% &b&l*"
+    CLEARCHAT_PLAYER: "&cYour chat has been cleared by an administrator."
+
+    LOCKED: "  &cChat is currently locked"
+    LOCKED_BROADCAST: "  &e%player% &chas locked global chat"
+    UNLOCKED_BROADCAST: "  &e%player% &ahas unlocked global chat"
+
+    ANTI_SWEAR_WORD_BLOCKED: "  &cMessage removed by anti-swear systems"
+    ANTI_SWEAR_ADMIN_NOTIFY: "  &c%player% &7attempted to say: &b%word%"
+
+    COMMAND_BLOCKED: "  &cThis command has been restricted"
+
+  SCOREBOARD:
+    TOGGLE: "  &aYou have %value% the scoreboard"
+
+  DOUBLE_JUMP:
+    COOLDOWN_ACTIVE: "  &cYou must wait &e%time%s &cto Double Jump again!"
+
+  WORLD_EVENT_MODIFICATIONS:
+    ITEM_DROP: "  &cYou are not allowed to drop items."
+    ITEM_PICKUP: "  &cYou are not allowed to pickup items."
+    BLOCK_PLACE: "  &cYou are not allowed to place blocks."
+    BLOCK_BREAK: "  &cYou are not allowed to break blocks."
+    BLOCK_INTERACT: "  &cYou are not allowed to use this."
+    PLAYER_PVP: "  &cYou are not allowed to pvp here."
+
+  HOLOGRAMS:
+    EMPTY: "  &cCould not find any holograms."
+    ALREADY_EXISTS: "  &cThere is a hologram with this name already &7(%name%)&c."
+    INVALID_HOLOGRAM: "  &cThere is no hologram with this name &7(%name%)&c."
+    INVALID_LINE: "  &cCould not find hologram line."
+
+    SPAWNED: "  &7Created new hologram with name &b%name%&7."
+    DESPAWNED: "  &7Removed hologram with name &b%name%&7."
+    MOVED: "  &7Moved hologram &b%name%&7."
+
+    LINE_SET: "  &7Set line &b%line%&7."
+    ADDED_LINE: "  &7Added new line."
+    REMOVED_LINE: "  &7Removed line &b%line%&7."
+
+  ANTI_WORLD_DOWNLOADER:
+    ADMIN_NOTIFY: "  &f%player% &chas joined with the World Downloader Mod, their ability to use it has been restricted by our systems."

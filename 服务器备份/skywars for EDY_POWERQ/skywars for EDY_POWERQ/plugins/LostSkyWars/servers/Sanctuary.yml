@@ -1,0 +1,63 @@
+name: Sanctuary
+mode: solo
+cube: Sanctuary, 254, -294, 160, 0, 196, -173
+min-players: 2
+spawns:
+- Sanctuary; -16.5; 75.0; -99.5; 0.0; 0.0
+- Sanctuary; -31.5; 75.0; -78.5; 0.0; 0.0
+- Sanctuary; 12.5; 75.0; -78.5; 0.0; 0.0
+- Sanctuary; -70.5; 75.0; -39.5; 0.0; 0.0
+- Sanctuary; 51.5; 75.0; -39.5; 0.0; 0.0
+- Sanctuary; 72.5; 75.0; -24.5; 0.0; 0.0
+- Sanctuary; -91.5; 75.0; -10.5; 0.0; 0.0
+- Sanctuary; -70.5; 75.0; 4.5; 0.0; 0.0
+- Sanctuary; 51.5; 75.0; 4.5; 0.0; 0.0
+- Sanctuary; -31.5; 75.0; 43.5; 0.0; 0.0
+- Sanctuary; 12.5; 75.0; 43.5; 0.0; 0.0
+- Sanctuary; -2.5; 75.0; 64.5; 0.0; 0.0
+chests:
+- Sanctuary; -16.0; 63.0; -102.0; 0.0; 0.0; solo
+- Sanctuary; -4.0; 63.0; -102.0; 0.0; 0.0; solo
+- Sanctuary; -17.0; 67.0; -97.0; 0.0; 0.0; solo
+- Sanctuary; -29.0; 67.0; -79.0; 0.0; 0.0; solo
+- Sanctuary; -34.0; 63.0; -78.0; 0.0; 0.0; solo
+- Sanctuary; 14.0; 63.0; -78.0; 0.0; 0.0; solo
+- Sanctuary; -34.0; 63.0; -66.0; 0.0; 0.0; solo
+- Sanctuary; 14.0; 63.0; -66.0; 0.0; 0.0; solo
+- Sanctuary; -70.0; 63.0; -42.0; 0.0; 0.0; solo
+- Sanctuary; -58.0; 63.0; -42.0; 0.0; 0.0; solo
+- Sanctuary; 38.0; 63.0; -42.0; 0.0; 0.0; solo
+- Sanctuary; 50.0; 63.0; -42.0; 0.0; 0.0; solo
+- Sanctuary; -71.0; 67.0; -37.0; 0.0; 0.0; solo
+- Sanctuary; 51.0; 67.0; -37.0; 0.0; 0.0; solo
+- Sanctuary; 69.0; 67.0; -25.0; 0.0; 0.0; solo
+- Sanctuary; -94.0; 63.0; -24.0; 0.0; 0.0; solo
+- Sanctuary; 74.0; 63.0; -24.0; 0.0; 0.0; solo
+- Sanctuary; -94.0; 63.0; -12.0; 0.0; 0.0; solo
+- Sanctuary; 74.0; 63.0; -12.0; 0.0; 0.0; solo
+- Sanctuary; -89.0; 67.0; -11.0; 0.0; 0.0; solo
+- Sanctuary; -71.0; 67.0; 1.0; 0.0; 0.0; solo
+- Sanctuary; 51.0; 67.0; 1.0; 0.0; 0.0; solo
+- Sanctuary; -70.0; 63.0; 6.0; 0.0; 0.0; solo
+- Sanctuary; -58.0; 63.0; 6.0; 0.0; 0.0; solo
+- Sanctuary; 38.0; 63.0; 6.0; 0.0; 0.0; solo
+- Sanctuary; 50.0; 63.0; 6.0; 0.0; 0.0; solo
+- Sanctuary; -34.0; 63.0; 30.0; 0.0; 0.0; solo
+- Sanctuary; 14.0; 63.0; 30.0; 0.0; 0.0; solo
+- Sanctuary; 13.0; 74.0; 36.0; 0.0; 0.0; solo
+- Sanctuary; -34.0; 63.0; 42.0; 0.0; 0.0; solo
+- Sanctuary; 14.0; 63.0; 42.0; 0.0; 0.0; solo
+- Sanctuary; -29.0; 67.0; 43.0; 0.0; 0.0; solo
+- Sanctuary; 9.0; 67.0; 43.0; 0.0; 0.0; solo
+- Sanctuary; -3.0; 67.0; 61.0; 0.0; 0.0; solo
+- Sanctuary; -16.0; 63.0; 66.0; 0.0; 0.0; solo
+- Sanctuary; -4.0; 63.0; 66.0; 0.0; 0.0; solo
+- Sanctuary; 9.0; 67.0; -79.0; 0.0; 0.0; solofeast
+- Sanctuary; -10.0; 67.0; -48.0; 0.0; 0.0; solofeast
+- Sanctuary; -10.0; 67.0; 12.0; 0.0; 0.0; solofeast
+- Sanctuary; -40.0; 67.0; -18.0; 0.0; 0.0; solofeast
+- Sanctuary; 20.0; 67.0; -18.0; 0.0; 0.0; solofeast
+- Sanctuary; 3.0; 70.0; -5.0; 0.0; 0.0; solofeast
+- Sanctuary; -23.0; 70.0; -31.0; 0.0; 0.0; solofeast
+- Sanctuary; -9.0; 66.0; -19.0; 0.0; 0.0; solofeast
+- Sanctuary; -12.0; 66.0; -17.0; 0.0; 0.0; solofeast

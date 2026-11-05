@@ -1,0 +1,7 @@
+NPCS:
+  '0':
+    Commands:
+    - 1~~~lsw give coins %player% 200000~~~noPerm~~~BOTH~~~~~~false~~~true~~~false~~~0.0~~~0~~~0~~~false~~~false
+  '2':
+    Commands:
+    - 1~~~lsw give coins %player_name% 200000~~~noPerm~~~BOTH~~~~~~false~~~true~~~false~~~0.0~~~0~~~0~~~false~~~false

@@ -1,0 +1,16 @@
+boards:
+  level:
+    type: HOLOGRAM
+    stats: LEVEL
+    ranking: 0
+    location: world; 243.5; 52.0; 1312.5; 0.44265747; -1.2088904
+  kills:
+    type: HOLOGRAM
+    stats: KILLS
+    ranking: 0
+    location: world; 226.5; 52.0; 1324.5; 270.74002; 8.5615635
+  wins:
+    type: HOLOGRAM
+    stats: WINS
+    ranking: 0
+    location: world; 259.5; 52.0; 1324.5; 83.22766; 23.333805

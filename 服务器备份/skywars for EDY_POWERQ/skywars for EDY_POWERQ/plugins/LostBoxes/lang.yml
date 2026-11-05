@@ -1,0 +1,13 @@
+box:
+ item:
+  display: '&aMystery Box'
+  reward: ' &7• {prefix} &r{name}'
+  lore:
+  - '&7This box contains one of the following:'
+  - ''
+  - '{rewards}'
+  - ''
+  - '&fQuality: {rating}'
+  - '&cExpires in {expiresOn}'
+  - ''
+  - '&eClick to open!'

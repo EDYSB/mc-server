@@ -1,0 +1,106 @@
+armorer:
+ id: 1
+ name: 'Armorer'
+ price: 20000
+ rarity: RARE
+ permission: 'none'
+ icon: 'GOLD_CHESTPLATE : 1 : display=Armorer : lore=&7Gold Chestplate\n&7Gold Leggings\n&7Gold Boots'
+ armor:
+ - 'GOLD_BOOTS : 1'
+ - 'GOLD_LEGGINGS : 1'
+ - 'GOLD_CHESTPLATE : 1'
+ - 'AIR : 1'
+ content: []
+armorsmith:
+ id: 2
+ name: 'Armorsmith'
+ price: 20000
+ rarity: COMMON
+ permission: 'none'
+ icon: 'anvil : 1 : display=Armorsmith : lore=&7Anvil\n&7Enchanted book\n&7Gold Boots'
+ armor:
+ - 'AIR : 1' 
+ - 'AIR : 1' 
+ - 'AIR : 1' 
+ - 'AIR : 1'   
+ content:
+ - 'DIAMOND_CHESTPLATE : 1 : enchantments=PROTECTION_ENVIRONMENTAL:3\nDAMAGE_ALL:1'
+ - 'ANVIL : 1' 
+ - 'EXP_BOTTLE : 64'
+ - 'DIAMOND_HELMET:0 : 1' 
+baseballplayer:
+ id: 3
+ name: 'Baseball Player'
+ price: 20000
+ rarity: RARE
+ permission: 'none'
+ icon: 'IRON_HELMET : 1 : display=Baseball Player : lore=&7Iron Helmet\n&7Wooded Sword'
+ armor:
+ - 'AIR : 1' 
+ - 'AIR : 1' 
+ - 'AIR : 1' 
+ - 'AIR : 1'   
+ content:
+ - 'IRON_HELMET : 1 : enchantments=PROTECTION_ENVIRONMENTAL:1'
+ - 'WOOD_SWORD : 1 : enchantments=DAMAGE_ALL:1'
+ - 'DIAMOND_HELMET:0 : 1'  
+ecologist:
+ id: 4
+ name: 'Ecologist'
+ price: 20000
+ rarity: RARE
+ permission: 'none'
+ icon: 'IRON_AXE : 1 : display=Ecologist : lore=&7Iron Axe\n&7Oak log &8x16'
+ armor:
+ - 'AIR : 1' 
+ - 'AIR : 1' 
+ - 'AIR : 1' 
+ - 'AIR : 1'   
+ content:
+ - 'IRON_AXE : 1 : enchantments=DIG_SPEED:1'
+ - 'LOG:2 : 16'  
+hunter:
+ id: 5
+ name: 'Hunter'
+ price: 20000
+ rarity: RARE
+ permission: 'none'
+ icon: 'BOW : 1 : display=Hunter : lore=&7Bow\n&7Arrow &8x16'
+ armor:
+ - 'AIR : 1' 
+ - 'AIR : 1' 
+ - 'AIR : 1' 
+ - 'AIR : 1'   
+ content:
+ - 'BOW : 1 : enchantments=ARROW_DAMAGE:1'
+ - 'ARROW : 16'  
+Knight:
+ id: 6
+ name: 'Knight'
+ price: 20000
+ rarity: RARE
+ permission: 'none'
+ icon: 'GOLD_SWORD : 1 : display=Knight : lore=&7Bow\n&7Arrow &8x16'
+ armor:
+ - 'AIR : 1' 
+ - 'AIR : 1' 
+ - 'AIR : 1' 
+ - 'AIR : 1'   
+ content:
+ - 'GOLD_SWORD : 1 : enchantments=DAMAGE_ALL:2\nDURABILITY:5'
+ - 'GOLD_HELMET : 1 : enchantments=PROTECTION_ENVIRONMENTAL:1'   
+Rookie:
+ id: 7
+ name: 'Rookie'
+ price: 20000
+ rarity: RARE
+ permission: 'none'
+ icon: 'LEATHER_HELMET : 1 : display=Rookie : lore=&7Leather Helmet\n&7Leather Chestplate\n&7Leather Leggings\n&7Leather boots\n&7Glass &8x16\n&7Steak &8x6'
+ armor:
+ - 'LEATHER_HELMET : 1' 
+ - 'LEATHER_CHESTPLATE : 1' 
+ - 'LEATHER_LEGGINGS : 1' 
+ - 'LEATHER_BOOTS : 1'   
+ content:
+ - 'GLASS:0 : 16' 
+ - 'COOKED_BEEF : 6' 

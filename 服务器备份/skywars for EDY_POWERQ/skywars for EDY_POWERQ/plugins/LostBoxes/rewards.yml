@@ -1,0 +1,46 @@
+# Don't change, add or rename the key of rarities.
+# The lostskywars need section name equals internal rarity.
+# Only change name: '' and others.
+rarities:
+ legendary:
+  name: '&6Legendary'
+  prefix: '&6[Legendary]'
+  broadcast: '{display} &bhas found {prefix} {item}&b in a Mystery Box!'
+  # Amount of quality gain for the box (maximum quality: 5 stars)
+  star: 1.5
+  # Drop rating in boxes
+  percentage: 10.0
+  # Mystery frags from duplicated items
+  mystery-frags: 20
+ epic:
+  name: '&5Epic'
+  prefix: '&5[Epic]'
+  broadcast: ''
+  star: 1.0
+  percentage: 25.0
+  mystery-frags: 15
+ rare:
+  name: '&9Rare'
+  prefix: '&9[Rare]'
+  broadcast: ''
+  star: 0.5
+  percentage: 50.0
+  mystery-frags: 10
+ common:
+  name: '&aCommon'
+  prefix: '&a[Common]'
+  broadcast: ''
+  star: 0.2
+  percentage: 100.0
+  mystery-frags: 5
+# rewards will run cmd
+rewardsbycmd:
+ example:
+  # Use unique ID for rewards.
+  id: 'c1'
+  rarity: common
+  name: '&fExample Reward &7(Lobby)'
+  cmd: 'tell {player} example reward, remove in rewards.yml'
+  # If the player has the permission don't give more
+  # Leave empty to give anytime
+  permission: ''

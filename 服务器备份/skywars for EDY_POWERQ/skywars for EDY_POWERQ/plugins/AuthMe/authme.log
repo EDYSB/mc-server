@@ -1,0 +1,138 @@
+[01-29 21:06:24]: [INFO] Created column 'regdate' and set the current timestamp, 1738155984101, to all 0 rows
+[01-29 21:06:24]: [INFO] SQLite Setup finished
+[01-29 21:06:24]: [INFO] Hooked into Vault!
+[01-29 21:06:24]: [INFO] Hooked successfully into Multiverse-Core
+[01-29 21:06:24]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[01-29 21:06:39]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[01-29 21:06:39]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[01-29 21:06:39]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[01-29 21:06:39]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[01-29 21:06:39]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+	at org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+[01-29 21:07:49]: [FINE] EDY_POWERQ registered 127.0.0.1
+[01-29 21:07:49]: [FINE] EDY_POWERQ logged in 127.0.0.1
+[01-29 21:07:53]: [FINE] jiiiii registered 127.0.0.1
+[01-29 21:07:53]: [FINE] The user jiiiii has 2 accounts:
+[01-29 21:07:53]: [FINE] §7§aEDY_POWERQ§7, §ajiiiii§7.
+[01-29 21:07:53]: [FINE] jiiiii logged in 127.0.0.1
+[01-29 21:11:36]: [FINE] B1rd3e registered 127.0.0.1
+[01-29 21:11:36]: [FINE] The user B1rd3e has 3 accounts:
+[01-29 21:11:36]: [FINE] §7§aEDY_POWERQ§7, §ajiiiii§7, §aB1rd3e§7.
+[01-29 21:11:36]: [FINE] B1rd3e logged in 127.0.0.1
+[01-29 21:13:10]: [FINE] The user EDY_POWERQ has 3 accounts:
+[01-29 21:13:10]: [FINE] §7§aEDY_POWERQ§7, §ajiiiii§7, §aB1rd3e§7.
+[01-29 21:13:10]: [FINE] EDY_POWERQ logged in 127.0.0.1
+[01-29 21:14:57]: [FINE] The user EDY_POWERQ has 3 accounts:
+[01-29 21:14:57]: [FINE] §7§aEDY_POWERQ§7, §ajiiiii§7, §aB1rd3e§7.
+[01-29 21:14:57]: [FINE] EDY_POWERQ logged in 127.0.0.1
+[01-29 21:16:21]: [FINE] The user EDY_POWERQ has 3 accounts:
+[01-29 21:16:21]: [FINE] §7§aEDY_POWERQ§7, §ajiiiii§7, §aB1rd3e§7.
+[01-29 21:16:21]: [FINE] EDY_POWERQ logged in 127.0.0.1
+[01-29 21:16:52]: [FINE] The user EDY_POWERQ has 3 accounts:
+[01-29 21:16:52]: [FINE] §7§aEDY_POWERQ§7, §ajiiiii§7, §aB1rd3e§7.
+[01-29 21:16:52]: [FINE] EDY_POWERQ logged in 127.0.0.1
+[01-29 21:31:18]: [FINE] SunnyNanjie registered 127.0.0.1
+[01-29 21:31:18]: [FINE] The user SunnyNanjie has 4 accounts:
+[01-29 21:31:18]: [FINE] §7§aEDY_POWERQ§7, §ajiiiii§7, §aB1rd3e§7, §aSunnyNanjie§7.
+[01-29 21:31:18]: [FINE] SunnyNanjie logged in 127.0.0.1
+[01-29 21:34:21]: [FINE] The user EDY_POWERQ has 4 accounts:
+[01-29 21:34:21]: [FINE] §7§aEDY_POWERQ§7, §ajiiiii§7, §aB1rd3e§7, §aSunnyNanjie§7.
+[01-29 21:34:21]: [FINE] EDY_POWERQ logged in 127.0.0.1
+[01-29 21:36:43]: [FINE] The user EDY_POWERQ has 4 accounts:
+[01-29 21:36:43]: [FINE] §7§aEDY_POWERQ§7, §ajiiiii§7, §aB1rd3e§7, §aSunnyNanjie§7.
+[01-29 21:36:43]: [FINE] EDY_POWERQ logged in 127.0.0.1
+[01-29 21:41:33]: [FINE] The user EDY_POWERQ has 4 accounts:
+[01-29 21:41:33]: [FINE] §7§aEDY_POWERQ§7, §ajiiiii§7, §aB1rd3e§7, §aSunnyNanjie§7.
+[01-29 21:41:33]: [FINE] EDY_POWERQ logged in 127.0.0.1
+[01-29 21:43:28]: [FINE] The user SunnyNanjie has 4 accounts:
+[01-29 21:43:28]: [FINE] §7§aEDY_POWERQ§7, §ajiiiii§7, §aB1rd3e§7, §aSunnyNanjie§7.
+[01-29 21:43:28]: [FINE] SunnyNanjie logged in 127.0.0.1
+[01-29 21:47:41]: [FINE] The user jiiiii has 4 accounts:
+[01-29 21:47:41]: [FINE] §7§aEDY_POWERQ§7, §ajiiiii§7, §aB1rd3e§7, §aSunnyNanjie§7.
+[01-29 21:47:41]: [FINE] jiiiii logged in 127.0.0.1
+[01-29 21:51:49]: [FINE] The user jiiiii has 4 accounts:
+[01-29 21:51:49]: [FINE] §7§aEDY_POWERQ§7, §ajiiiii§7, §aB1rd3e§7, §aSunnyNanjie§7.
+[01-29 21:51:49]: [FINE] jiiiii logged in 127.0.0.1
+[01-29 21:52:48]: [FINE] The user jiiiii has 4 accounts:
+[01-29 21:52:48]: [FINE] §7§aEDY_POWERQ§7, §ajiiiii§7, §aB1rd3e§7, §aSunnyNanjie§7.
+[01-29 21:52:48]: [FINE] jiiiii logged in 127.0.0.1
+[01-29 21:53:46]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[01-30 10:14:55]: [INFO] SQLite Setup finished
+[01-30 10:14:55]: [INFO] Hooked into Vault!
+[01-30 10:14:55]: [INFO] Hooked successfully into Multiverse-Core
+[01-30 10:14:55]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[01-30 10:15:17]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[01-30 10:15:17]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[01-30 10:15:17]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[01-30 10:15:17]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[01-30 10:15:17]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+	at org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+[01-30 10:29:31]: [FINE] EDY_POWERQ used the wrong password
+[01-30 10:29:45]: [FINE] The user EDY_POWERQ has 4 accounts:
+[01-30 10:29:45]: [FINE] §7§aEDY_POWERQ§7, jiiiii, b1rd3e, sunnynanjie.
+[01-30 10:29:45]: [FINE] EDY_POWERQ logged in 127.0.0.1
+[01-30 10:32:04]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[01-30 10:55:31]: [INFO] SQLite Setup finished
+[01-30 10:55:31]: [INFO] Hooked into Vault!
+[01-30 10:55:31]: [INFO] Hooked successfully into Multiverse-Core
+[01-30 10:55:32]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[01-30 10:55:50]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[01-30 10:55:50]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[01-30 10:55:50]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[01-30 10:55:50]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[01-30 10:55:50]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+	at org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+[01-30 10:56:25]: [FINE] The user jiiiii has 4 accounts:
+[01-30 10:56:25]: [FINE] §7edy_powerq, §ajiiiii§7, b1rd3e, sunnynanjie.
+[01-30 10:56:25]: [FINE] jiiiii logged in 127.0.0.1
+[01-30 10:57:16]: [FINE] The user EDY_POWERQ has 4 accounts:
+[01-30 10:57:16]: [FINE] §7§aEDY_POWERQ§7, §ajiiiii§7, b1rd3e, sunnynanjie.
+[01-30 10:57:16]: [FINE] EDY_POWERQ logged in 127.0.0.1
+[01-30 10:59:54]: [FINE] The user EDY_POWERQ has 4 accounts:
+[01-30 10:59:54]: [FINE] §7§aEDY_POWERQ§7, §ajiiiii§7, b1rd3e, sunnynanjie.
+[01-30 10:59:54]: [FINE] EDY_POWERQ logged in 127.0.0.1
+[01-30 11:19:07]: [FINE] The user jiiiii has 4 accounts:
+[01-30 11:19:07]: [FINE] §7edy_powerq, §ajiiiii§7, b1rd3e, sunnynanjie.
+[01-30 11:19:07]: [FINE] jiiiii logged in 127.0.0.1

@@ -1,0 +1,61 @@
+name: DessertedIslands
+mode: solo
+cube: DessertedIslands, 164, -119, 145, 0, 244, -165
+min-players: 2
+spawns:
+- DessertedIslands; 0.5; 38.0; -59.5; 0.0; 0.0
+- DessertedIslands; -17.5; 38.0; -44.5; 0.0; 0.0
+- DessertedIslands; 17.5; 38.0; -44.5; 0.0; 0.0
+- DessertedIslands; -42.5; 38.0; -16.5; 0.0; 0.0
+- DessertedIslands; 43.5; 38.0; -16.5; 0.0; 0.0
+- DessertedIslands; -60.5; 38.0; 1.5; 0.0; 0.0
+- DessertedIslands; 60.5; 38.0; 1.5; 0.0; 0.0
+- DessertedIslands; -41.5; 38.0; 18.5; 0.0; 0.0
+- DessertedIslands; 45.5; 38.0; 18.5; 0.0; 0.0
+- DessertedIslands; 18.5; 38.0; 44.5; 0.0; 0.0
+- DessertedIslands; -16.5; 38.0; 46.5; 0.0; 0.0
+- DessertedIslands; 0.5; 38.0; 60.5; 0.0; 0.0
+chests:
+- DessertedIslands; -3.0; 33.0; -65.0; 0.0; 0.0; solo
+- DessertedIslands; -3.0; 27.0; -64.0; 0.0; 0.0; solo
+- DessertedIslands; 2.0; 31.0; -60.0; 0.0; 0.0; solo
+- DessertedIslands; 21.0; 27.0; -48.0; 0.0; 0.0; solo
+- DessertedIslands; -17.0; 31.0; -48.0; 0.0; 0.0; solo
+- DessertedIslands; 22.0; 33.0; -48.0; 0.0; 0.0; solo
+- DessertedIslands; -21.0; 27.0; -43.0; 0.0; 0.0; solo
+- DessertedIslands; 17.0; 31.0; -43.0; 0.0; 0.0; solo
+- DessertedIslands; -22.0; 33.0; -43.0; 0.0; 0.0; solo
+- DessertedIslands; 0.0; 32.0; -31.0; 0.0; 0.0; solo
+- DessertedIslands; -46.0; 33.0; -22.0; 0.0; 0.0; solo
+- DessertedIslands; 40.0; 33.0; -22.0; 0.0; 0.0; solo
+- DessertedIslands; -46.0; 27.0; -21.0; 0.0; 0.0; solo
+- DessertedIslands; 40.0; 27.0; -21.0; 0.0; 0.0; solo
+- DessertedIslands; -41.0; 31.0; -17.0; 0.0; 0.0; solo
+- DessertedIslands; 45.0; 31.0; -17.0; 0.0; 0.0; solo
+- DessertedIslands; 64.0; 27.0; -3.0; 0.0; 0.0; solo
+- DessertedIslands; 65.0; 33.0; -3.0; 0.0; 0.0; solo
+- DessertedIslands; -60.0; 31.0; -2.0; 0.0; 0.0; solo
+- DessertedIslands; -31.0; 32.0; 0.0; 0.0; 0.0; solo
+- DessertedIslands; 31.0; 32.0; 0.0; 0.0; 0.0; solo
+- DessertedIslands; 60.0; 31.0; 2.0; 0.0; 0.0; solo
+- DessertedIslands; -64.0; 27.0; 3.0; 0.0; 0.0; solo
+- DessertedIslands; -65.0; 33.0; 3.0; 0.0; 0.0; solo
+- DessertedIslands; -45.0; 31.0; 17.0; 0.0; 0.0; solo
+- DessertedIslands; 43.0; 31.0; 17.0; 0.0; 0.0; solo
+- DessertedIslands; -40.0; 27.0; 21.0; 0.0; 0.0; solo
+- DessertedIslands; 48.0; 27.0; 21.0; 0.0; 0.0; solo
+- DessertedIslands; -40.0; 33.0; 22.0; 0.0; 0.0; solo
+- DessertedIslands; 48.0; 33.0; 22.0; 0.0; 0.0; solo
+- DessertedIslands; 0.0; 32.0; 31.0; 0.0; 0.0; solo
+- DessertedIslands; 21.0; 27.0; 40.0; 0.0; 0.0; solo
+- DessertedIslands; 22.0; 33.0; 40.0; 0.0; 0.0; solo
+- DessertedIslands; -17.0; 31.0; 43.0; 0.0; 0.0; solo
+- DessertedIslands; 17.0; 31.0; 45.0; 0.0; 0.0; solo
+- DessertedIslands; -21.0; 27.0; 48.0; 0.0; 0.0; solo
+- DessertedIslands; -22.0; 33.0; 48.0; 0.0; 0.0; solo
+- DessertedIslands; -2.0; 31.0; 60.0; 0.0; 0.0; solo
+- DessertedIslands; 3.0; 27.0; 64.0; 0.0; 0.0; solo
+- DessertedIslands; 3.0; 33.0; 65.0; 0.0; 0.0; solo
+- DessertedIslands; -5.0; 32.0; 5.0; 0.0; 0.0; solofeast
+- DessertedIslands; 1.0; 32.0; -9.0; 0.0; 0.0; solofeast
+- DessertedIslands; 8.0; 32.0; 4.0; 0.0; 0.0; solofeast

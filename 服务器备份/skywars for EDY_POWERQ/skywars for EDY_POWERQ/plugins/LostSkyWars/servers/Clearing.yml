@@ -1,0 +1,62 @@
+name: Clearing
+mode: solo
+cube: Clearing, 139, -119, 117, 0, 113, -113
+min-players: 2
+spawns:
+- Clearing; 0.5; 57.0; -53.5; 0.0; 0.0
+- Clearing; -20.5; 57.0; -47.5; 0.0; 0.0
+- Clearing; 20.5; 57.0; -47.5; 0.0; 0.0
+- Clearing; -47.5; 56.0; -20.5; 0.0; 0.0
+- Clearing; 47.5; 57.0; -19.5; 0.0; 0.0
+- Clearing; 54.5; 57.0; -0.5; 0.0; 0.0
+- Clearing; -53.5; 56.0; 0.5; 0.0; 0.0
+- Clearing; 48.5; 57.0; 20.5; 0.0; 0.0
+- Clearing; -47.5; 57.0; 21.5; 0.0; 0.0
+- Clearing; -21.5; 56.0; 48.5; 0.0; 0.0
+- Clearing; 20.5; 57.0; 48.5; 0.0; 0.0
+- Clearing; 0.5; 56.0; 54.5; 0.0; 0.0
+chests:
+- Clearing; -2.0; 45.0; -59.0; 0.0; 0.0; solo
+- Clearing; -7.0; 47.0; -57.0; 0.0; 0.0; solo
+- Clearing; 2.0; 49.0; -57.0; 0.0; 0.0; solo
+- Clearing; -19.0; 45.0; -53.0; 0.0; 0.0; solo
+- Clearing; 19.0; 45.0; -53.0; 0.0; 0.0; solo
+- Clearing; -14.0; 47.0; -51.0; 0.0; 0.0; solo
+- Clearing; 14.0; 47.0; -51.0; 0.0; 0.0; solo
+- Clearing; -23.0; 49.0; -51.0; 0.0; 0.0; solo
+- Clearing; 23.0; 49.0; -51.0; 0.0; 0.0; solo
+- Clearing; 26.0; 49.0; -26.0; 0.0; 0.0; solo
+- Clearing; -26.0; 49.0; -25.0; 0.0; 0.0; solo
+- Clearing; -51.0; 49.0; -23.0; 0.0; 0.0; solo
+- Clearing; 51.0; 49.0; -23.0; 0.0; 0.0; solo
+- Clearing; -53.0; 45.0; -19.0; 0.0; 0.0; solo
+- Clearing; 53.0; 45.0; -19.0; 0.0; 0.0; solo
+- Clearing; -51.0; 47.0; -14.0; 0.0; 0.0; solo
+- Clearing; 51.0; 47.0; -14.0; 0.0; 0.0; solo
+- Clearing; 57.0; 47.0; -7.0; 0.0; 0.0; solo
+- Clearing; 59.0; 45.0; -2.0; 0.0; 0.0; solo
+- Clearing; -57.0; 49.0; -2.0; 0.0; 0.0; solo
+- Clearing; -59.0; 45.0; 2.0; 0.0; 0.0; solo
+- Clearing; 57.0; 49.0; 2.0; 0.0; 0.0; solo
+- Clearing; -57.0; 47.0; 7.0; 0.0; 0.0; solo
+- Clearing; -51.0; 47.0; 14.0; 0.0; 0.0; solo
+- Clearing; 51.0; 47.0; 14.0; 0.0; 0.0; solo
+- Clearing; -53.0; 45.0; 19.0; 0.0; 0.0; solo
+- Clearing; 53.0; 45.0; 19.0; 0.0; 0.0; solo
+- Clearing; -51.0; 49.0; 23.0; 0.0; 0.0; solo
+- Clearing; 51.0; 49.0; 23.0; 0.0; 0.0; solo
+- Clearing; -26.0; 49.0; 26.0; 0.0; 0.0; solo
+- Clearing; 26.0; 49.0; 26.0; 0.0; 0.0; solo
+- Clearing; -14.0; 47.0; 51.0; 0.0; 0.0; solo
+- Clearing; 14.0; 47.0; 51.0; 0.0; 0.0; solo
+- Clearing; -23.0; 49.0; 51.0; 0.0; 0.0; solo
+- Clearing; 23.0; 49.0; 51.0; 0.0; 0.0; solo
+- Clearing; -19.0; 45.0; 53.0; 0.0; 0.0; solo
+- Clearing; 19.0; 45.0; 53.0; 0.0; 0.0; solo
+- Clearing; 7.0; 47.0; 57.0; 0.0; 0.0; solo
+- Clearing; -2.0; 49.0; 57.0; 0.0; 0.0; solo
+- Clearing; 2.0; 45.0; 59.0; 0.0; 0.0; solo
+- Clearing; 15.0; 50.0; 11.0; 0.0; 0.0; solofeast
+- Clearing; 9.0; 50.0; -10.0; 0.0; 0.0; solofeast
+- Clearing; -15.0; 49.0; -10.0; 0.0; 0.0; solofeast
+- Clearing; -7.0; 50.0; 10.0; 0.0; 0.0; solofeast

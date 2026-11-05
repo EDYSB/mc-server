@@ -1,0 +1,57 @@
+groups:
+  default:
+    options:
+      default: 'true'
+      prefix: '&7'
+    permissions:
+    - essentials.msg
+    - gadgetsmenu.menuselector
+    - gadgetsmenu.mysteryboxes.open.*
+    - gadgetsmenu.animations.normal
+  VIP:
+    options:
+      default: 'false'
+      prefix: '&a[VIP] &7'
+    permissions:
+    - lostskywars.rank.vip
+    inheritance:
+    - default
+  VIP+:
+    options:
+      default: 'false'
+      prefix: '&a[VIP&6+&a] &7'
+    permissions:
+    - lostskywars.rank.vip+
+    inheritance:
+    - default
+  MVP:
+    options:
+      default: 'false'
+      prefix: '&b[MVP] &7'
+    permissions:
+    - lostskywars.rank.mvp
+    inheritance:
+    - default
+  MVP+:
+    options:
+      default: 'false'
+      prefix: '&b[MVP&c+&b] &7'
+    permissions:
+    - lostskywars.rank.mvp+
+    inheritance:
+    - default
+  OWNER:
+    options:
+      default: 'false'
+      prefix: '&4&lOWNER &7'
+    permissions:
+    - '*'
+    inheritance:
+    - default
+schema-version: 2
+users:
+  a6171976-d57a-4556-be56-6987215863fe:
+    group:
+    - VIP
+    options:
+      name: UzumakiYT

@@ -1,0 +1,57 @@
+party:
+ member:
+  kick: '&d[Party] &7{player} &aKicked you from him party.'
+  invite-expires: ' \n&aYou party invite from &7{player} &ahas expired!\n '
+ owner:
+  player-reject: '&d[Party] &7{player} &arejected your party invite.'
+ broadcast:
+  join: '&d[Party] &7{player} &ajoined the party!'
+  leave: '&d[Party] &7{player} &aleft the party!'
+  new-leaver-after-old-leader-leave: '&d[Party] &7{player} &ais the new Party Leader.'
+  deleted: '&d[Party] &7{player} &adeleted the party!'
+command:
+ accept:
+  args: '&cUse /party accept <player>'
+  cant-accept-from-yourself: '&cYou can''t accept party invites from yourself.'
+  already-have-party: '&cYou already have a party.'
+  user-are-not-party-leader: '&c{player} aren''t leader of a party.'
+  user-not-invited-you: '&c{player} not have invited you to him party.'
+  user-party-is-full: '&c{player}''s Party is already full.'
+  accepted: '&aYou joined &7{player}''s &aParty.'
+ delete:
+  are-not-in-party: '&cYou aren''t in a party.'
+  only-leader-can-delete: '&cOnly the Party Leader can delete the party.'
+  deleted: '&aYou deleted the Party.'
+ invite:
+  args: '&cUse /party invite <player>'
+  user-not-found: '&cUser not found.'
+  cant-invite-yourself: '&cYou can''t invite yourself for a party.'
+  only-leader-can-invite: '&cOnly the Leader of Party can invite players.'
+  full: '&cYour party is already full.'
+  already-invited: '&c{player} has already been invited to Party.'
+  user-already-have-party: '&c{player} already are into a party.'
+  invited: '&aYou have invited &7{player} &ato your party.'
+ kick:
+  args: '&cUse /party kick <player>'
+  are-not-in-party: '&cYou aren''t in a party.'
+  only-the-leader-can-kick: '&cOnly the Party Leader can kick members.'
+  cant-kick-yourself: '&cYou can''t kick yourself from party.'
+  user-are-not-member-of-your-party: '&7{player} &aaren''t member of your party.'
+  kicked: '&d[Party] &7{owner} &akicked &7{player} &afrom the party.'
+ leave:
+  are-not-in-party: '&cYou aren''t in a party.'
+  left: '&aYou left the party.'
+ reject:
+  args: '&cUse /party reject <player>'
+  cant-reject-from-yourself: '&cYou can''t reject party invites from yourself.'
+  already-have-party: '&cYou already have a party.'
+  user-not-a-party-leader: '&7{player} &anot are leader of a party.'
+  user-not-invited-you: '&7{player} &anot have invited you to him party.'
+  rejected: '&aYou rejected the Party invite from &7{player}&a.'
+ transfer:
+  args: '&cUse /party transfer <player>'
+  are-not-in-party: '&cYou aren''t in a party.'
+  only-the-leader-can-transfer: '&cOnly the Party Leader can transfer the leadership.'
+  cant-transfer-to-yourself: '&cYou can''t promote yourself.'
+  user-are-not-member-of-your-party: '&7{player} &aaren''t member of your party.'
+  transferred: '&d[Party] &7{player} &ais the new Party Leader.'
