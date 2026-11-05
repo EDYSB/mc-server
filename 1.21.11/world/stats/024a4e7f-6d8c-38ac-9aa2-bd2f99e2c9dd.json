@@ -1,0 +1,41 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:birch_sapling": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 14,
+      "minecraft:walk_one_cm": 1603,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 164,
+      "minecraft:damage_taken": 220,
+      "minecraft:play_time": 3104,
+      "minecraft:damage_dealt": 69,
+      "minecraft:jump": 109,
+      "minecraft:time_since_death": 0,
+      "minecraft:sprint_one_cm": 7969,
+      "minecraft:fall_one_cm": 5175,
+      "minecraft:swim_one_cm": 1294,
+      "minecraft:total_world_time": 3104,
+      "minecraft:fly_one_cm": 28308,
+      "minecraft:walk_on_water_one_cm": 240,
+      "minecraft:sneak_time": 15,
+      "minecraft:deaths": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:zombie": 1
+    },
+    "minecraft:mined": {
+      "minecraft:birch_log": 5
+    },
+    "minecraft:crafted": {
+      "minecraft:birch_planks": 20,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:birch_sapling": 1,
+      "minecraft:birch_log": 5
+    }
+  },
+  "DataVersion": 4671
+}
